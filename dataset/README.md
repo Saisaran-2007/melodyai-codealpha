@@ -1,0 +1,1 @@
+Place MIDI files that you own or are licensed to use in this folder. Supported extensions are `.mid` and `.midi`; subfolders are scanned too. No dataset is bundled or downloaded automatically.

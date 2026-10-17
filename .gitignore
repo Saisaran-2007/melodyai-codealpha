@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.streamlit/secrets.toml
+*.py[cod]
+models/*.pt
+models/*.tmp
+generated/*.mid
+generated/*.midi
+generated/*.wav
+dataset/*
+!dataset/.gitkeep
+!dataset/README.md
